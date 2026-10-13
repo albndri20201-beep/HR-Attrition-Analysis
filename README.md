@@ -1,4 +1,5 @@
 # HR Employee Attrition Analysis
+![Dashboard](dashboard.png)
 
 An end-to-end analysis of the IBM HR Employee Attrition dataset (1,470 employees),
 from data cleaning in Excel to an interactive Power BI dashboard.
